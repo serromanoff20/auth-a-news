@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Админ панель</title>
+    <meta charset="utf-8">
+    <title>Админ панель</title>
+    <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
 	<p>Админка</p>
