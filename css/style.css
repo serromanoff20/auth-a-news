@@ -65,12 +65,16 @@ a:hover {
 }
 
 h2{
+  margin: 20px;
   position: relative;
-
-
   /*width: 400px;*/
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #a8a7a8;
+}
+
+h3, li{
+  margin-left: 40px;
+  color: salmon;
 }
 
 .login, .authorization, .remind_pass {

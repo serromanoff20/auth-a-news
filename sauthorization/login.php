@@ -6,10 +6,10 @@
     <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
-<form method="get" action="../backend/syst-auth/login.php" class="login">
+<form method="get" action="../backend/sauthorization/LoginForm.php" class="login">
     <p>
         <label for="login">Логин:</label>
-        <input type="text" name="login" id="login" value="test">
+        <input type="text" name="login" id="login" value="admin">
     </p>
 
     <p>
